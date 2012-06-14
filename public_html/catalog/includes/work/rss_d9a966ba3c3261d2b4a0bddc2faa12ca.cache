@@ -1,0 +1,14 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:24:"osCommerce Contributions";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2010 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:54:"Google Product Search Feed (Feedmachine Configuration)";s:4:"link";s:38:"http://addons.oscommerce.com/info/7130";s:11:"description";s:416:"Small bugfix in the condition and age_group functions<br />
+ Use this package instead of the before.<br />
+<br />
+Version 2.1 added:<br />
+color tag: - function added to read color values from product options<br />
+size - function added to read size values from product options<br />
+<br />
+Includes caracter stripping, for example if reference numbering like 1-black, 2-white etc. is used.<br />
+<br />
+Full package";s:7:"pubDate";s:31:"Wed, 04 Apr 2012 17:47:25 -0400";}i:1;a:4:{s:5:"title";s:30:"Auto Backup Database (Updated)";s:4:"link";s:38:"http://addons.oscommerce.com/info/8374";s:11:"description";s:175:"Added an option to the shop backoffice to enable/disable the automatic database backup. Addition by Modem 2.0<br />
+Modified email function to widen server compatibility<br />";s:7:"pubDate";s:31:"Wed, 04 Apr 2012 15:03:08 -0400";}i:2;a:4:{s:5:"title";s:47:"admin - copy, move and delete multiple products";s:4:"link";s:38:"http://addons.oscommerce.com/info/1401";s:11:"description";s:149:"This is a little mod which adds a mini product icon to the search results.<br />
+<br />
+This can easily be added to categories.php too if so desired.";s:7:"pubDate";s:31:"Wed, 04 Apr 2012 06:48:54 -0400";}i:3;a:4:{s:5:"title";s:25:"Sort Product Options v1.0";s:4:"link";s:38:"http://addons.oscommerce.com/info/8400";s:11:"description";s:49:"Added style to draggable elements. (Full package)";s:7:"pubDate";s:31:"Tue, 03 Apr 2012 16:06:36 -0400";}i:4;a:4:{s:5:"title";s:35:"Delete the HTML Content (for popup)";s:4:"link";s:38:"http://addons.oscommerce.com/info/8399";s:11:"description";s:332:"In the admin site when you add the larger image you get a box where you can add some text for the pop up. But when using an Editor you will have the Editor above each HTML Content under the next image that you want to insert. I got crazy about this USELESS ( for me) utility and search around to get rid of it.<br />
+It's very easy.";s:7:"pubDate";s:31:"Tue, 03 Apr 2012 14:24:58 -0400";}}s:11:"items_count";i:5;}
